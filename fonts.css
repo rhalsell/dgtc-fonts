@@ -1,0 +1,15 @@
+/* Dad's Garage brand fonts for Emma templates */
+@font-face {
+  font-family: 'Grisly Beast';
+  src: url('GrislyBeast-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Motley Forces';
+  src: url('MotleyForces-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
